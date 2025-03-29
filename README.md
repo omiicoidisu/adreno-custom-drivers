@@ -1,2 +1,3 @@
-# adreno-custom-drivers
-solo solo solo solo solo solo solo solo solo quanto a te
+# adreno custom drivers
+custom adreno drivers for snapdragon chips.
+turnip & qualcomm
